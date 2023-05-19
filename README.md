@@ -3,7 +3,7 @@
 ## You will find in this repo:
 
 * Proteus
-* WORD
+* Word
 * Picture
 * README.md - this is file itself - using Markdown language
 
