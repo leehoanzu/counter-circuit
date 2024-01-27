@@ -2,9 +2,21 @@
 
 ## You will find in this repo:
 
-* Proteus
-* Word
-* Picture
-* README.md - this is file itself - using Markdown language
+* How to simulate circuit in Proteus
+* Screenshot
+* README.md
+* ...
 
-### © 2023 Lê Hoàng Vũ | https://www.facebook.com/giausang.khatvong.16/
+## Screenshots
+
+![Reference02](https://github.com/leehoanzu/counter-circuit/blob/main/screenshot/Reference-02.png)
+
+![Reference01](https://github.com/leehoanzu/counter-circuit/blob/main/screenshot/Reference-01.png)
+
+## Contact
+
+* Connect with me via email: lehoangvu260602@gmail.com
+
+## Copyright
+
+* Copyright &#169; 2023 Lê Hoàng Vũ
